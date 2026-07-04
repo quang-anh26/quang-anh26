@@ -4,6 +4,6 @@
 
 **Tech I use:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
 
-**Tools:** Git, GitHub, GitLab
+**Tools:** Git, GitHub, GitLab, Vercel
 
 📫 Contact: nguyenquanganh20112006@gmail.com
