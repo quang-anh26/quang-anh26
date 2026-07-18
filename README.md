@@ -1,7 +1,7 @@
 ### Hi there, I'm QuangAnh 👋
 
 ## 📄 CV
-[CV của tôi](./CV_FrontendDev.pdf)
+[CV của tôi](./CV_FrontendDev.docx)
 
 ## 🚀 Projects
 - **EduPress LMS** — LMS app với React, Redux Toolkit | [Demo](https://edupress-app.vercel.app) · [Code](https://github.com/quang-anh26/E-Learning-Platform-UI-v1.0)
